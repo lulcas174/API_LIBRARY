@@ -1,2 +1,1 @@
-Uma API feita baseada no desafio do devchallenge, link para o desafio: https://www.devchallenge.com.br/challenges/5f0b43f5a5fec43156149043/details
-Resolvi fazendo utilizando o api_view, pode ser feita usando basedview também, para rodar precisa apenas do python e django instalado na sua maquina, rodar um python manage.py runserver ou python3 manage.py runserver, depois só usar um software para testar api como o INSOMNIA e testar as requisições
+
